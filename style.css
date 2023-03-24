@@ -100,3 +100,8 @@ background-image: linear-gradient(to right top, #8933f1, #7f25d9, #ad18c1, #aa0a
 	width: 30%;border-radius: 15px; border-color: #3f0374;
 	background-image: linear-gradient(to right top, #3f0374, #4e009b, #650072, #780074, #7c0160);
 }
+
+#send{
+	width: 30%;border-radius: 15px; border-color: #3f0374;
+	background-image: linear-gradient(to right top, #3f0374, #4e009b, #650072, #780074, #7c0160);
+}
